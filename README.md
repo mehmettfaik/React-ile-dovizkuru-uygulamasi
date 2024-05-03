@@ -10,6 +10,8 @@ Hedef Dövizi: Dönüşümü almak istediğiniz hedef dövizini seçin. Varsayı
 Hesapla Butonu: Seçilen döviz kurları ve miktarına göre dönüşümü hesaplamak için bu butona tıklayın.
 Sonuç: Dönüşüm sonucu bu alanda görüntülenir. Bu alan kullanıcı tarafından değiştirilemez.
 
+![resim1](https://github.com/mehmettfaik/React-ile-dovizkuru-uygulamasi/blob/main/images/resim1.png)
+![resim2](https://github.com/mehmettfaik/React-ile-dovizkuru-uygulamasi/blob/main/images/resim2.png)
 ## Gereksinimler
 
 React kurulumu yapılmış olmalıdır.
