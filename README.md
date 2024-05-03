@@ -4,19 +4,19 @@ Bu uygulama, kullanıcıların belirli bir döviz kuru üzerinden dönüşüm ya
 
 ## Nasıl Kullanılır?
 
-Miktar: Dönüştürmek istediğiniz miktarı girin. Bu alan bir sayı alır.
-Başlangıç Dövizi: Dönüşüm yapmak istediğiniz başlangıç dövizini seçin. Varsayılan olarak USD seçilmiştir.
-Hedef Dövizi: Dönüşümü almak istediğiniz hedef dövizini seçin. Varsayılan olarak TRY seçilmiştir.
-Hesapla Butonu: Seçilen döviz kurları ve miktarına göre dönüşümü hesaplamak için bu butona tıklayın.
-Sonuç: Dönüşüm sonucu bu alanda görüntülenir. Bu alan kullanıcı tarafından değiştirilemez.
+- Miktar: Dönüştürmek istediğiniz miktarı girin. Bu alan bir sayı alır.
+- Başlangıç Dövizi: Dönüşüm yapmak istediğiniz başlangıç dövizini seçin. Varsayılan olarak USD seçilmiştir.
+- Hedef Dövizi: Dönüşümü almak istediğiniz hedef dövizini seçin. Varsayılan olarak TRY seçilmiştir.
+- Hesapla Butonu: Seçilen döviz kurları ve miktarına göre dönüşümü hesaplamak için bu butona tıklayın.
+- Sonuç: Dönüşüm sonucu bu alanda görüntülenir. Bu alan kullanıcı tarafından değiştirilemez.
 
 ![resim1](https://github.com/mehmettfaik/React-ile-dovizkuru-uygulamasi/blob/main/images/resim1.png)
 ![resim2](https://github.com/mehmettfaik/React-ile-dovizkuru-uygulamasi/blob/main/images/resim2.png)
 ## Gereksinimler
 
-React kurulumu yapılmış olmalıdır.
-Axios kütüphanesi yüklü olmalıdır.
-İnternet bağlantısı gereklidir.
+- React kurulumu yapılmış olmalıdır.
+- Axios kütüphanesi yüklü olmalıdır.
+- İnternet bağlantısı gereklidir.
 
 ## API Kullanımı
 
